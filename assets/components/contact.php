@@ -12,7 +12,7 @@
       <h3 class="float-md-start mb-0">Company</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link active" aria-current="page" href="../../index.html">Home</a>
-        <a class="nav-link" href="shopGallery.html">Shop</a>
+        <a class="nav-link" href="shopGallery.php">Shop</a>
         <a class="nav-link" href="contact.php">Contact</a>
       </nav>
     </div>
@@ -50,7 +50,7 @@
                                         Please enter a valid email address for shipping updates.
                                     </div>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-12 form-outline mb-4">
                                     <label for="message" class="form-label">Message</label>
                                     <input type="text" class="form-control" name="message" id="message" placeholder="Message">
                                     <div class="invalid-feedback">
